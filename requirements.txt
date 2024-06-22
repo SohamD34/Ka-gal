@@ -1,0 +1,10 @@
+catboost
+pandas
+numpy
+seaborn
+matplotlib
+scikit-learn
+xgboost
+lightgbm
+scipy
+statistics
